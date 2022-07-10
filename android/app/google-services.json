@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911373325889",
+    "project_id": "myynotes-fluttering",
+    "storage_bucket": "myynotes-fluttering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911373325889:android:1099b453acd4c6b183d8c0",
+        "android_client_info": {
+          "package_name": "com.myfirstflutter.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911373325889-7180episp3d5uia23bdn17kmcfpqr4p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmSYC1yAeoJ8EuKSeQ8iJdh1CODKxrAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911373325889-7180episp3d5uia23bdn17kmcfpqr4p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
